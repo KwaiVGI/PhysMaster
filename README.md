@@ -53,7 +53,7 @@ as an extra condition, and adopt a top-down optimization strategy for finetuning
 <table class="center">
 <tr>
     <td width=98% style="border: none">
-        <video controls loop src="assets/compare.mp4" muted="false"></video>
+        <video controls loop src="https://github.com/SihuiJi/PhysMaster/blob/main/assets/compare.mp4" muted="false"></video>
     </td>
 </tr>
 </table>
@@ -63,7 +63,7 @@ as an extra condition, and adopt a top-down optimization strategy for finetuning
 <table class="center">
 <tr>
     <td width=98% style="border: none">
-        <video controls loop src="assets/ablation.mp4" muted="false"></video>
+        <video controls loop src="https://github.com/SihuiJi/PhysMaster/blob/main/assets/ablation.mp4" muted="false"></video>
     </td>
 </tr>
 </table>

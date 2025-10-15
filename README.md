@@ -8,7 +8,7 @@
 <p align="center">
   <a href='https://sihuiji.github.io/PhysMaster-Page/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
   &nbsp;
-  <a href="https://arxiv.org/abs/2506.03140"><img src="https://img.shields.io/static/v1?label=Arxiv&message=PhysMaster&color=red&logo=arxiv"></a>
+  <a href=""><img src="https://img.shields.io/static/v1?label=Arxiv&message=PhysMaster&color=red&logo=arxiv"></a>
   &nbsp;
   <!-- <a href='https://huggingface.co/datasets/KwaiVGI/CameraClone-Dataset'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange'></a> -->
 </p>

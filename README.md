@@ -49,24 +49,10 @@ as an extra condition, and adopt a top-down optimization strategy for finetuning
 
 ## &#x1F304; Gallery
 ### Comparisons with Previous Works
-
-<table class="center">
-<tr>
-    <td width=98% style="border: none">
-        <video controls loop src="https://github.com/SihuiJi/PhysMaster/blob/main/assets/compare.mp4" muted="false"></video>
-    </td>
-</tr>
-</table>
-
+https://github.com/user-attachments/assets/52e415d9-8c84-40f7-ba24-f78cbc48b685
 ### Ablation Analysis
+https://github.com/user-attachments/assets/95c92bd4-8396-466e-8d5e-f775aaaff142
 
-<table class="center">
-<tr>
-    <td width=98% style="border: none">
-        <video controls loop src="https://github.com/SihuiJi/PhysMaster/blob/main/assets/ablation.mp4" muted="false"></video>
-    </td>
-</tr>
-</table>
 
 ## &#x2696; License
 This repository is released under the Apache-2.0 license as found in the [LICENSE](LICENSE) file.

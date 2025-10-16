@@ -8,7 +8,7 @@
 <p align="center">
   <a href='https://sihuiji.github.io/PhysMaster-Page/'><img src='https://img.shields.io/badge/Project-Page-Green'></a>
   &nbsp;
-  <a href=""><img src="https://img.shields.io/static/v1?label=Arxiv&message=PhysMaster&color=red&logo=arxiv"></a>
+  <a href="https://arxiv.org/pdf/2510.13809"><img src="https://img.shields.io/static/v1?label=Arxiv&message=PhysMaster&color=red&logo=arxiv"></a>
   &nbsp;
   <!-- <a href='https://huggingface.co/datasets/KwaiVGI/CameraClone-Dataset'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-orange'></a> -->
 </p>
@@ -33,7 +33,7 @@
 <!-- - __[2025.10.09]__: Training and Inference Code, [Model Checkpoints](https://huggingface.co/KwaiVGI/CamCloneMaster-Wan2.1) are available.
 - __[2025.09.25]__: [CamCloneMaster](https://arxiv.org/abs/2506.03140) has been accepted by SIGGRAPH Aisa 2025.
 - __[2025.09.08]__: [CameraClone Dataset](https://huggingface.co/datasets/KwaiVGI/CameraClone-Dataset/) is avaliable. -->
-- __[2025.10.16]__: Release the [Project Page](https://sihuiji.github.io/PhysMaster-Page/) and the [Arxiv]() version.
+- __[2025.10.16]__: Release the [Project Page](https://sihuiji.github.io/PhysMaster-Page/) and the [Arxiv](https://arxiv.org/pdf/2510.13809) version.
 
 ## 📷 Introduction
 **TL;DR:** We propose PhysMaster, which captures physical knowledge as a representation for guiding video generation models to enhance their physics-awareness. Specifically, PhysMaster is based on the image-to-video task where the model is expected to
@@ -63,7 +63,7 @@ If you find this codebase useful for your research, please use the following ent
 @article{Ji2025physmaster,
   title={{PhysMaster: Mastering Physical Representation for Video Generation via Reinforcement Learning}},
   author={Ji, Sihui and Chen, Xi and Tao, Xin and Wan, Pengfei and Zhao, Hengshuang},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  journal={arXiv preprint arXiv:2510.13809},
   year={2025}
 }
 ```
